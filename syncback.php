@@ -10,6 +10,7 @@
 
 // Load WordPress path
 require( 'path.php' );
+
 // let's load WordPress
 require_once( WP_LOAD_PATH . 'wp-load.php' );
 
